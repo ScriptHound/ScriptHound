@@ -7,16 +7,12 @@
 * aiogram
 
 ## Tools
-* SQLAlchemy
-* Django ORM
-* Alembic
-* graphene
-* Postgresql
-* Redis
-* Celery
-* Docker
-* docker-compose
-* git
+* ORMs: SQLAlchemy ORM, Django ORM
+* Migrations: Alembic
+* Database: Postgresql
+* Cache: Redis
+* Task queue: Celery
+* Docker, docker-compose
 
 
 
