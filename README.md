@@ -1,5 +1,6 @@
 ## About me
 * Python Programmer
+* Fancy about webGIS and computer vision
 
 ## My beloved frameworks
 ![Django](https://img.shields.io/badge/Django-3-brightgreen)
