@@ -2,11 +2,6 @@
 * Python Programmer
 * Fancy about webGIS and computer vision
 
-## My beloved frameworks
-![Django](https://img.shields.io/badge/Django-3-brightgreen)
-![vkbottle](https://img.shields.io/badge/vkbottle-3-yellow)
-![aiogram](https://img.shields.io/badge/aiogram-2-blue)
-
 ## Tools
 ![ORM](https://img.shields.io/badge/ORMs-SQLAlchemy%20ORM%2C%20Django%20ORM-red)
 ![Migrations](https://img.shields.io/badge/Migrations-Alembic-orange)
