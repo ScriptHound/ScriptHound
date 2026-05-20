@@ -1,9 +1,9 @@
 ## About me
 * Python Programmer
-* Fancy about webGIS and computer vision
+* Fancy about webGIS and cloud technologies
 
 ## Contact me
-https://t.me/ScriptHound
+https://t.me/H3NE57
 
 
 
